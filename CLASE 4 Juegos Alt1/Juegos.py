@@ -14,3 +14,5 @@ while ok:
         import tictactoe
     else:
         ok = False
+
+# Se puede hacer esto pero es mala practica
