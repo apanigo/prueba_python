@@ -1,6 +1,6 @@
 import PySimpleGUI as sg
-import PrimerCSV
-import SegundoCSV
+from TareaPythonPlus import PrimerCSV
+from TareaPythonPlus import SegundoCSV
 
 sg.theme('NeutralBlue')
 

@@ -6,7 +6,7 @@ El programa se encuentra dentro de la carpeta TareaPythonPlus.
 
 Los archivos elegidos para el trabajo se encuentran en ArchivosCSV y los resultantes de los analisis en ArchivosJSON.
 
-La ejecucion comienza desde menu.py.
+La ejecucion comienza desde el archivo menuPP.py.
 
 
 Links a las publicaciones de los archivos CSV: 
