@@ -51,9 +51,9 @@ def manejador(event):
     - Se genera el archivo .json
     - Sale un Pop-Up avisando que ya se genero el archivo correspondiente """
     current_path = os.getcwd()
-    games_file_path = os.path.join(current_path,'TareaPythonPlus','ArchivosCSV','vgsales.csv') 
+    file_path = os.path.join(current_path,'TareaPythonPlus') 
     boton,json_name = event.replace('-','').split(',')
-    with open(games_file_path,'r',encoding='UTF-8') as archivo:
+    with open(os.path.join(file_path,'ArchivosCSV','vgsales.csv'),'r',encoding='UTF-8') as archivo:
         datos = csv.reader(archivo,delimiter=',')
         encabezado = datos.__next__()
         if boton == '1':
@@ -62,8 +62,13 @@ def manejador(event):
             json_data = generar_opcion_2(datos)
         elif boton == '3':
             json_data = generar_opcion_3(datos)
-        with open(os.path.join(current_path,'TareaPythonPlus','ArchivosJSON',json_name),'w',encoding='UTF-8') as archivo_json:
-            json.dump(json_data,archivo_json,indent=4,ensure_ascii=False)
+        try:
+            archivo_json = open(os.path.join(file_path,'ArchivosJSON',json_name),'w',encoding='utf-8')
+        except FileNotFoundError:
+            os.mkdir(os.path.join(file_path,'ArchivosJSON'))
+            archivo_json = open(os.path.join(file_path,'ArchivosJSON',json_name),'w',encoding='utf-8')
+        json.dump(json_data,archivo_json,indent=4,ensure_ascii=False)
+        archivo_json.close()
 
 def start():
     window = sg.Window("VIDEO JUEGOS",layout=display(),size=(400,350),element_justification='c',

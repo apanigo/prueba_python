@@ -52,9 +52,9 @@ def manejador(evento):
     - Consulta cual es el criterio por el que hay que ordenar
     - Se genera el archivo .json
     - Sale un Pop-Up avisando que ya se genero el archivo correspondiente """
-    nobel_file_path = os.path.join(os.getcwd(),'TareaPythonPlus','ArchivosCSV','archive.csv')
+    file_path = os.path.join(os.getcwd(),'TareaPythonPlus')
     boton,file_name = evento.replace('-','').split(',')
-    with open(nobel_file_path, 'r', encoding="utf-8") as archivo:
+    with open(os.path.join(file_path,'ArchivosCSV','archive.csv'), 'r', encoding="utf-8") as archivo:
         reader = csv.reader(archivo)
         header = reader.__next__()
         if boton == '1':
@@ -63,8 +63,13 @@ def manejador(evento):
             data = generar_opcion_2(reader)
         else:
             data = generar_opcion_3(reader)
-    with open(os.path.join(os.getcwd(),'TareaPythonPlus','ArchivosJSON',file_name),'w',encoding="utf-8") as archivo_json:
+        try:
+            archivo_json = open(os.path.join(file_path,'ArchivosJSON',file_name),'w',encoding='utf-8')
+        except FileNotFoundError:
+            os.mkdir(os.path.join(file_path,'ArchivosJSON'))
+            archivo_json = open(os.path.join(file_path,'ArchivosJSON',file_name),'w',encoding='utf-8')
         json.dump(data,archivo_json,indent=4,ensure_ascii=False)
+        archivo_json.close()
 
 def start():
     window = sg.Window("PREMIOS NOBEL",layout=display(),size=(400,350),disable_minimize=True,
