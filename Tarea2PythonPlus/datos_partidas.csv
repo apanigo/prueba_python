@@ -1,0 +1,239 @@
+Tiempo,Partida,Total palabras a adivinar,Nombre evento,Usuarie - nick, Usuarie - genero,Usuarie - edad,Estado,Palabra,Nivel
+1624118202,1,6,inicio_partida,nora,Femenino,50,,,Nivel 3
+1624118208,1,6,intento,nora,Femenino,50,error,Ecole,Nivel 3
+1624118213,1,6,intento,nora,Femenino,50,error,Wanadoo,Nivel 3
+1624118219,1,6,intento,nora,Femenino,50,error,TalonSoft,Nivel 3
+1624118221,1,6,intento,nora,Femenino,50,ok,Ecole,Nivel 3
+1624118228,1,6,intento,nora,Femenino,50,error,Funbox Media,Nivel 3
+1624118230,1,6,intento,nora,Femenino,50,ok,Wanadoo,Nivel 3
+1624118236,1,6,intento,nora,Femenino,50,error,Answer Software,Nivel 3
+1624118239,1,6,intento,nora,Femenino,50,ok,Funbox Media,Nivel 3
+1624118246,1,6,intento,nora,Femenino,50,error,TalonSoft,Nivel 3
+1624118248,1,6,intento,nora,Femenino,50,ok,Nintendo,Nivel 3
+1624118254,1,6,intento,nora,Femenino,50,error,Answer Software,Nivel 3
+1624118256,1,6,intento,nora,Femenino,50,ok,Answer Software,Nivel 3
+1624118258,1,6,intento,nora,Femenino,50,ok,TalonSoft,Nivel 3
+1624118258,1,6,fin,nora,Femenino,50,finalizado,,Nivel 3
+1624118271,2,6,inicio_partida,nora,Femenino,50,,,Nivel 3
+1624118276,2,6,intento,nora,Femenino,50,error,Epic Games,Nivel 3
+1624118280,2,6,intento,nora,Femenino,50,error,Paradox Development,Nivel 3
+1624118282,2,6,intento,nora,Femenino,50,ok,NCS,Nivel 3
+1624118285,2,6,intento,nora,Femenino,50,ok,Epic Games,Nivel 3
+1624118289,2,6,intento,nora,Femenino,50,error,Nobilis,Nivel 3
+1624118291,2,6,intento,nora,Femenino,50,ok,Nobilis,Nivel 3
+1624118296,2,6,intento,nora,Femenino,50,error,Flashpoint Games,Nivel 3
+1624118298,2,6,intento,nora,Femenino,50,ok,Flashpoint Games,Nivel 3
+1624118300,2,6,intento,nora,Femenino,50,ok,Oxygen Interactive,Nivel 3
+1624118303,2,6,intento,nora,Femenino,50,ok,Paradox Development,Nivel 3
+1624118303,2,6,fin,nora,Femenino,50,finalizado,,Nivel 3
+1624118315,3,6,inicio_partida,nora,Femenino,50,,,Nivel 2
+1624118324,3,6,intento,nora,Femenino,50,error,Hamster Corporation,Nivel 2
+1624118328,3,6,intento,nora,Femenino,50,error,ASCII Entertainment,Nivel 2
+1624118331,3,6,intento,nora,Femenino,50,error,Tru Blu Entertainment,Nivel 2
+1624118335,3,6,intento,nora,Femenino,50,error,Electronic Arts,Nivel 2
+1624118340,3,6,intento,nora,Femenino,50,error,Panther Software,Nivel 2
+1624118341,3,6,intento,nora,Femenino,50,ok,Tru Blu Entertainment,Nivel 2
+1624118347,3,6,intento,nora,Femenino,50,error,ASCII Entertainment,Nivel 2
+1624118348,3,6,intento,nora,Femenino,50,ok,ASCII Entertainment,Nivel 2
+1624118355,3,6,intento,nora,Femenino,50,error,Hamster Corporation,Nivel 2
+1624118359,3,6,intento,nora,Femenino,50,error,Victor Interactive,Nivel 2
+1624118364,3,6,intento,nora,Femenino,50,error,Victor Interactive,Nivel 2
+1624118365,3,6,intento,nora,Femenino,50,ok,Victor Interactive,Nivel 2
+1624118371,3,6,intento,nora,Femenino,50,error,Hamster Corporation,Nivel 2
+1624118375,3,6,intento,nora,Femenino,50,error,Panther Software,Nivel 2
+1624118375,3,6,fin,nora,Femenino,50,timeout,,Nivel 2
+1624118459,4,6,inicio_partida,nora,Femenino,50,,,Nivel 2
+1624118465,4,6,intento,nora,Femenino,50,error,Imagic,Nivel 2
+1624118469,4,6,intento,nora,Femenino,50,error,Angel Studios,Nivel 2
+1624118472,4,6,intento,nora,Femenino,50,ok,Imagic,Nivel 2
+1624118475,4,6,intento,nora,Femenino,50,ok,TOHO,Nivel 2
+1624118477,4,6,intento,nora,Femenino,50,ok,Answer Software,Nivel 2
+1624118481,4,6,intento,nora,Femenino,50,ok,Ubisoft,Nivel 2
+1624118485,4,6,intento,nora,Femenino,50,error,Play It,Nivel 2
+1624118487,4,6,intento,nora,Femenino,50,ok,Angel Studios,Nivel 2
+1624118489,4,6,intento,nora,Femenino,50,ok,Play It,Nivel 2
+1624118489,4,6,fin,nora,Femenino,50,finalizado,,Nivel 2
+1624118505,5,2,inicio_partida,felipe,Masculino,19,,,Nivel 1
+1624118507,5,2,intento,felipe,Masculino,19,ok,Moscow,Nivel 1
+1624118509,5,2,intento,felipe,Masculino,19,ok,Budapest,Nivel 1
+1624118509,5,2,fin,felipe,Masculino,19,finalizado,,Nivel 1
+1624118561,6,6,inicio_partida,felipe,Masculino,19,,,Nivel 2
+1624118565,6,6,intento,felipe,Masculino,19,error,Berlin,Nivel 2
+1624118569,6,6,intento,felipe,Masculino,19,error,"Chicago, IL",Nivel 2
+1624118576,6,6,intento,felipe,Masculino,19,ok,Moscow,Nivel 2
+1624118579,6,6,fin,felipe,Masculino,19,salida,,Nivel 2
+1624118608,7,6,inicio_partida,felipe,Masculino,19,,,Nivel 2
+1624118613,7,6,intento,felipe,Masculino,19,error,Munich,Nivel 2
+1624118617,7,6,intento,felipe,Masculino,19,error,"New York, NY",Nivel 2
+1624118622,7,6,intento,felipe,Masculino,19,error,Berlin,Nivel 2
+1624118627,7,6,intento,felipe,Masculino,19,error,"Washington, DC",Nivel 2
+1624118631,7,6,intento,felipe,Masculino,19,error,"New York, NY",Nivel 2
+1624118632,7,6,intento,felipe,Masculino,19,ok,"Brooklyn, NY",Nivel 2
+1624118633,7,6,intento,felipe,Masculino,19,ok,"New York, NY",Nivel 2
+1624118637,7,6,intento,felipe,Masculino,19,error,"Washington, DC",Nivel 2
+1624118641,7,6,intento,felipe,Masculino,19,error,Budapest,Nivel 2
+1624118643,7,6,intento,felipe,Masculino,19,ok,Budapest,Nivel 2
+1624118648,7,6,intento,felipe,Masculino,19,error,Munich,Nivel 2
+1624118651,7,6,intento,felipe,Masculino,19,error,Munich,Nivel 2
+1624118656,7,6,intento,felipe,Masculino,19,error,"Washington, DC",Nivel 2
+1624118656,7,6,intento,felipe,Masculino,19,ok,"Washington, DC",Nivel 2
+1624118660,7,6,intento,felipe,Masculino,19,error,Munich,Nivel 2
+1624118661,7,6,intento,felipe,Masculino,19,ok,Munich,Nivel 2
+1624118662,7,6,intento,felipe,Masculino,19,ok,Berlin,Nivel 2
+1624118662,7,6,fin,felipe,Masculino,19,finalizado,,Nivel 2
+1624118672,8,3,inicio_partida,ailen,Femenino,19,,,Nivel 1
+1624118676,8,3,intento,ailen,Femenino,19,error,"Brooklyn, NY",Nivel 1
+1624118676,8,3,fin,ailen,Femenino,19,salida,,Nivel 1
+1624118686,9,6,inicio_partida,ailen,Femenino,19,,,Nivel 2
+1624118690,9,6,intento,ailen,Femenino,19,error,Berlin,Nivel 2
+1624118694,9,6,intento,ailen,Femenino,19,error,"Brooklyn, NY",Nivel 2
+1624118695,9,6,intento,ailen,Femenino,19,ok,Budapest,Nivel 2
+1624118700,9,6,intento,ailen,Femenino,19,error,Moscow,Nivel 2
+1624118702,9,6,intento,ailen,Femenino,19,ok,Moscow,Nivel 2
+1624118709,9,6,intento,ailen,Femenino,19,error,Munich,Nivel 2
+1624118716,9,6,intento,ailen,Femenino,19,ok,Berlin,Nivel 2
+1624118745,9,6,fin,ailen,Femenino,19,timeout,,Nivel 2
+1624118900,10,6,inicio_partida,nora,Femenino,50,,,Nivel 2
+1624118904,10,6,intento,nora,Femenino,50,error,Paris,Nivel 2
+1624118908,10,6,intento,nora,Femenino,50,error,Stockholm,Nivel 2
+1624118912,10,6,intento,nora,Femenino,50,error,"New York, NY",Nivel 2
+1624118915,10,6,intento,nora,Femenino,50,error,Munich,Nivel 2
+1624118916,10,6,intento,nora,Femenino,50,ok,"New York, NY",Nivel 2
+1624118918,10,6,intento,nora,Femenino,50,ok,Paris,Nivel 2
+1624118920,10,6,intento,nora,Femenino,50,ok,London,Nivel 2
+1624118927,10,6,intento,nora,Femenino,50,ok,"Chicago, IL",Nivel 2
+1624118931,10,6,intento,nora,Femenino,50,error,Munich,Nivel 2
+1624118934,10,6,intento,nora,Femenino,50,ok,Stockholm,Nivel 2
+1624118937,10,6,intento,nora,Femenino,50,error,Stockholm,Nivel 2
+1624118942,10,6,intento,nora,Femenino,50,ok,Munich,Nivel 2
+1624118942,10,6,fin,nora,Femenino,50,finalizado,,Nivel 2
+1624119332,11,6,inicio_partida,ailen,Femenino,19,,,Nivel 2
+1624119336,11,6,intento,ailen,Femenino,19,error,"Chicago, IL",Nivel 2
+1624119340,11,6,intento,ailen,Femenino,19,error,Vienna,Nivel 2
+1624119342,11,6,intento,ailen,Femenino,19,ok,"Brooklyn, NY",Nivel 2
+1624119344,11,6,intento,ailen,Femenino,19,ok,Paris,Nivel 2
+1624119346,11,6,fin,ailen,Femenino,19,salida,,Nivel 2
+1624119378,12,6,inicio_partida,ailen,Femenino,19,,,Nivel 2
+1624119381,12,6,intento,ailen,Femenino,19,error,"New York, NY",Nivel 2
+1624119385,12,6,intento,ailen,Femenino,19,error,Budapest,Nivel 2
+1624119388,12,6,intento,ailen,Femenino,19,error,Stockholm,Nivel 2
+1624119388,12,6,fin,ailen,Femenino,19,salida,,Nivel 2
+1624126705,13,2,inicio_partida,ramiro,Masculino,16,,,Nivel 1
+1624126718,13,2,intento,ramiro,Masculino,16,error,Vienna,Nivel 1
+1624126719,13,2,intento,ramiro,Masculino,16,ok,Vienna,Nivel 1
+1624126721,13,2,intento,ramiro,Masculino,16,ok,London,Nivel 1
+1624126721,13,2,fin,ramiro,Masculino,16,finalizado,,Nivel 1
+1624126743,14,6,inicio_partida,ramiro,Masculino,16,,,Nivel 3
+1624126748,14,6,intento,ramiro,Masculino,16,error,"Washington, DC",Nivel 3
+1624126752,14,6,intento,ramiro,Masculino,16,error,Paris,Nivel 3
+1624126762,14,6,intento,ramiro,Masculino,16,error,"New York, NY",Nivel 3
+1624126764,14,6,intento,ramiro,Masculino,16,ok,Budapest,Nivel 3
+1624126768,14,6,intento,ramiro,Masculino,16,ok,"Washington, DC",Nivel 3
+1624126771,14,6,intento,ramiro,Masculino,16,ok,London,Nivel 3
+1624126773,14,6,intento,ramiro,Masculino,16,ok,Paris,Nivel 3
+1624126775,14,6,intento,ramiro,Masculino,16,ok,Berlin,Nivel 3
+1624126777,14,6,intento,ramiro,Masculino,16,ok,"New York, NY",Nivel 3
+1624126777,14,6,fin,ramiro,Masculino,16,finalizado,,Nivel 3
+1624126784,15,6,inicio_partida,ramiro,Masculino,16,,,Nivel 3
+1624126786,15,6,intento,ramiro,Masculino,16,ok,Stockholm,Nivel 3
+1624126791,15,6,intento,ramiro,Masculino,16,error,London,Nivel 3
+1624126795,15,6,intento,ramiro,Masculino,16,error,"Chicago, IL",Nivel 3
+1624126799,15,6,intento,ramiro,Masculino,16,error,"Boston, MA",Nivel 3
+1624126801,15,6,intento,ramiro,Masculino,16,ok,"Brooklyn, NY",Nivel 3
+1624126803,15,6,intento,ramiro,Masculino,16,ok,"Chicago, IL",Nivel 3
+1624126805,15,6,intento,ramiro,Masculino,16,ok,London,Nivel 3
+1624126810,15,6,intento,ramiro,Masculino,16,error,Berlin,Nivel 3
+1624126811,15,6,intento,ramiro,Masculino,16,ok,"Boston, MA",Nivel 3
+1624126812,15,6,intento,ramiro,Masculino,16,ok,Berlin,Nivel 3
+1624126812,15,6,fin,ramiro,Masculino,16,finalizado,,Nivel 3
+1624126970,16,6,inicio_partida,elisa,Femenino,50,,,Nivel 3
+1624126980,16,6,intento,elisa,Femenino,50,error,Budapest,Nivel 3
+1624126986,16,6,intento,elisa,Femenino,50,error,"Brooklyn, NY",Nivel 3
+1624126991,16,6,intento,elisa,Femenino,50,error,"Chicago, IL",Nivel 3
+1624126997,16,6,intento,elisa,Femenino,50,ok,Budapest,Nivel 3
+1624127011,16,6,intento,elisa,Femenino,50,error,Vienna,Nivel 3
+1624127015,16,6,intento,elisa,Femenino,50,error,"New York, NY",Nivel 3
+1624127020,16,6,intento,elisa,Femenino,50,ok,"Brooklyn, NY",Nivel 3
+1624127029,16,6,intento,elisa,Femenino,50,error,Vienna,Nivel 3
+1624127029,16,6,fin,elisa,Femenino,50,timeout,,Nivel 3
+1624127049,17,6,inicio_partida,elisa,Femenino,50,,,Nivel 3
+1624127052,17,6,intento,elisa,Femenino,50,error,"Boston, MA",Nivel 3
+1624127054,17,6,intento,elisa,Femenino,50,ok,"Boston, MA",Nivel 3
+1624127057,17,6,intento,elisa,Femenino,50,error,Stockholm,Nivel 3
+1624127060,17,6,intento,elisa,Femenino,50,error,Berlin,Nivel 3
+1624127061,17,6,intento,elisa,Femenino,50,ok,Stockholm,Nivel 3
+1624127066,17,6,intento,elisa,Femenino,50,error,Moscow,Nivel 3
+1624127068,17,6,intento,elisa,Femenino,50,ok,"New York, NY",Nivel 3
+1624127071,17,6,intento,elisa,Femenino,50,error,London,Nivel 3
+1624127072,17,6,intento,elisa,Femenino,50,ok,London,Nivel 3
+1624127075,17,6,intento,elisa,Femenino,50,error,Moscow,Nivel 3
+1624127077,17,6,intento,elisa,Femenino,50,ok,Moscow,Nivel 3
+1624127078,17,6,intento,elisa,Femenino,50,ok,Berlin,Nivel 3
+1624127078,17,6,fin,elisa,Femenino,50,finalizado,,Nivel 3
+1624127165,18,6,inicio_partida,emi,Femenino,15,,,Nivel 3
+1624127169,18,6,intento,emi,Femenino,15,error,"Boston, MA",Nivel 3
+1624127171,18,6,intento,emi,Femenino,15,ok,Munich,Nivel 3
+1624127173,18,6,intento,emi,Femenino,15,ok,"Washington, DC",Nivel 3
+1624127176,18,6,intento,emi,Femenino,15,error,Vienna,Nivel 3
+1624127177,18,6,intento,emi,Femenino,15,ok,London,Nivel 3
+1624127180,18,6,intento,emi,Femenino,15,ok,Vienna,Nivel 3
+1624127182,18,6,intento,emi,Femenino,15,ok,Paris,Nivel 3
+1624127183,18,6,intento,emi,Femenino,15,ok,"Boston, MA",Nivel 3
+1624127183,18,6,fin,emi,Femenino,15,finalizado,,Nivel 3
+1624127218,19,2,inicio_partida,emi,Femenino,15,,,Nivel 1
+1624127219,19,2,intento,emi,Femenino,15,ok,Moscow,Nivel 1
+1624127220,19,2,intento,emi,Femenino,15,ok,Budapest,Nivel 1
+1624127220,19,2,fin,emi,Femenino,15,finalizado,,Nivel 1
+1624127866,20,2,inicio_partida,emi,Femenino,15,,,Nivel 1
+1624127870,20,2,intento,emi,Femenino,15,error,"Boston, MA",Nivel 1
+1624127871,20,2,intento,emi,Femenino,15,ok,"Boston, MA",Nivel 1
+1624127872,20,2,intento,emi,Femenino,15,ok,"Chicago, IL",Nivel 1
+1624127872,20,2,fin,emi,Femenino,15,finalizado,,Nivel 1
+1624127903,21,3,inicio_partida,vanesa,Otro,20,,,Nivel 1
+1624127906,21,3,intento,vanesa,Otro,20,error,"Chicago, IL",Nivel 1
+1624127909,21,3,intento,vanesa,Otro,20,error,Budapest,Nivel 1
+1624127910,21,3,intento,vanesa,Otro,20,ok,"Washington, DC",Nivel 1
+1624127911,21,3,intento,vanesa,Otro,20,ok,"Chicago, IL",Nivel 1
+1624127914,21,3,intento,vanesa,Otro,20,error,"Washington, DC",Nivel 1
+1624127917,21,3,intento,vanesa,Otro,20,error,Budapest,Nivel 1
+1624127919,21,3,intento,vanesa,Otro,20,ok,Budapest,Nivel 1
+1624127919,21,3,fin,vanesa,Otro,20,finalizado,,Nivel 1
+1624128521,22,6,inicio_partida,elisa,Femenino,50,,,Nivel 3
+1624128525,22,6,intento,elisa,Femenino,50,error,London,Nivel 3
+1624128526,22,6,intento,elisa,Femenino,50,ok,Stockholm,Nivel 3
+1624128530,22,6,intento,elisa,Femenino,50,error,"New York, NY",Nivel 3
+1624128534,22,6,intento,elisa,Femenino,50,error,"Brooklyn, NY",Nivel 3
+1624128537,22,6,intento,elisa,Femenino,50,error,"New York, NY",Nivel 3
+1624128540,22,6,intento,elisa,Femenino,50,error,London,Nivel 3
+1624128542,22,6,intento,elisa,Femenino,50,ok,"Boston, MA",Nivel 3
+1624128543,22,6,intento,elisa,Femenino,50,ok,"New York, NY",Nivel 3
+1624128547,22,6,intento,elisa,Femenino,50,error,Vienna,Nivel 3
+1624128548,22,6,intento,elisa,Femenino,50,ok,London,Nivel 3
+1624128550,22,6,intento,elisa,Femenino,50,ok,Vienna,Nivel 3
+1624128550,22,6,intento,elisa,Femenino,50,ok,"Brooklyn, NY",Nivel 3
+1624128550,22,6,fin,elisa,Femenino,50,finalizado,,Nivel 3
+1624128573,23,6,inicio_partida,elisa,Femenino,50,,,Nivel 2
+1624128574,23,6,intento,elisa,Femenino,50,ok,London,Nivel 2
+1624128577,23,6,intento,elisa,Femenino,50,error,"Brooklyn, NY",Nivel 2
+1624128580,23,6,intento,elisa,Femenino,50,error,"Washington, DC",Nivel 2
+1624128582,23,6,intento,elisa,Femenino,50,ok,"Brooklyn, NY",Nivel 2
+1624128585,23,6,intento,elisa,Femenino,50,error,Munich,Nivel 2
+1624128586,23,6,intento,elisa,Femenino,50,ok,Munich,Nivel 2
+1624128589,23,6,intento,elisa,Femenino,50,error,"Washington, DC",Nivel 2
+1624128589,23,6,intento,elisa,Femenino,50,ok,Moscow,Nivel 2
+1624128592,23,6,intento,elisa,Femenino,50,error,"New York, NY",Nivel 2
+1624128593,23,6,intento,elisa,Femenino,50,ok,"Washington, DC",Nivel 2
+1624128594,23,6,intento,elisa,Femenino,50,ok,"New York, NY",Nivel 2
+1624128594,23,6,fin,elisa,Femenino,50,finalizado,,Nivel 2
+1624128613,24,2,inicio_partida,emi,Femenino,15,,,Nivel 1
+1624128614,24,2,intento,emi,Femenino,15,ok,Berlin,Nivel 1
+1624128615,24,2,intento,emi,Femenino,15,ok,London,Nivel 1
+1624128615,24,2,fin,emi,Femenino,15,finalizado,,Nivel 1
+1624128616,25,2,inicio_partida,emi,Femenino,15,,,Nivel 1
+1624128619,25,2,intento,emi,Femenino,15,error,London,Nivel 1
+1624128620,25,2,intento,emi,Femenino,15,ok,Vienna,Nivel 1
+1624128621,25,2,intento,emi,Femenino,15,ok,London,Nivel 1
+1624128621,25,2,fin,emi,Femenino,15,finalizado,,Nivel 1
+1624128622,26,2,inicio_partida,emi,Femenino,15,,,Nivel 1
+1624128625,26,2,intento,emi,Femenino,15,error,"Brooklyn, NY",Nivel 1
+1624128627,26,2,fin,emi,Femenino,15,salida,,Nivel 1
