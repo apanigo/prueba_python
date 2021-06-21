@@ -29,7 +29,7 @@ def menos_60(premio,nacimiento):
     """ Recibe el año en el que se gano el premio y la fecha de nacimiento de una persona, y devuelve si tenia menos de
     70 años o no cuando se lo entregaron """
     a_nacimiento = int(nacimiento[:4]) # Nacimiento se ordena aaaa-mm-dd, por lo tanto solo necesito los primeros 4 digitos de esa cadena
-    return ((int(premio) - a_nacimiento) < 60)
+    return ((int(premio) - a_nacimiento) < 65)
 
 def generar_opcion_2(datos):
     """ Genera una estructura con todos los hombres nacidos en Estados Unidos que ganaron un nobel de economia antes de
