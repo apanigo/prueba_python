@@ -20,6 +20,8 @@ Los archivos elegidos para el trabajo se encuentran en ArchivosCSV y los resulta
 
 La ejecucion comienza desde el archivo menuPP.py.
 
+(Se cambio la ubicacion de los archivos de esta actividad en el repositorio)
+
 
 *Links a las publicaciones de los archivos CSV:*
 
